@@ -1,0 +1,15 @@
+body{
+	background-color: #99ccff;
+}
+
+.password {
+	font-size: 30px;
+}
+
+.navbar-color{
+	background-color: #000000;
+}
+
+.navbar-default .navbar-brand{
+	color:#ff3232;
+}

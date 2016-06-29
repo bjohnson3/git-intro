@@ -13,3 +13,15 @@ body{
 .navbar-default .navbar-brand{
 	color:#ff3232;
 }
+
+.jumbotron {
+    position: relative;
+    background: #000 url("http://systhread.net/texts/200511gimp-img/ab_plasma.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+.white-table{
+	background-color: white;
+}
